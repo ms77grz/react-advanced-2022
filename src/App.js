@@ -1,4 +1,4 @@
-import Setup from './tutorial/11-memo-useMemo-useCallback/setup';
+import Setup from './tutorial/11-memo-useMemo-useCallback';
 
 import React from 'react';
 function App() {
